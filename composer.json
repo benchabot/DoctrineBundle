@@ -6,6 +6,7 @@
     "homepage": "http://www.doctrine-project.org",
     "license": "MIT",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Fabien Potencier",
